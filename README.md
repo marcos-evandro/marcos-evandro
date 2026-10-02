@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Marcos Evandro!
 
 Welcome to my GitHub profile! I'm a Software Quality Analyst / QA Engineer with experience in software testing, test automation, requirements analysis, and product development. Currently, I work at Koper ERP, where I combine software quality practices with Product Ownership, requirements management, and project coordination.
+
 My background includes testing and automation for **web, mobile, desktop, WearOS, and REST APIs**, as well as experience with agile environments, stakeholder communication, software quality processes, and product development.
+
 ---
 
 ## 🚀 About Me
