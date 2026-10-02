@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Software Quality Analyst / QA Engineer** w
 
 - **Name:** Marcos Evandro Sampaio Machado
 - **GitHub:** [marcos.evandro](https://github.com/)
-- **Location:** Manaus, Amazonas, Brazil
+- **Location:** Florianopolis, SC, Brazil
 - **Current Employer:** Koper ERP
 - **Role:** Software Quality Analyst — Mid-Level / Product Owner
 - **Education:** B.Sc. in Systems Analysis and Development
@@ -22,7 +22,7 @@ My background includes testing and automation for **web, mobile, desktop, WearOS
 
 ## 🧑‍💻 Skills & Tech Stack
 
-### Quality Assurance
+#### Quality Assurance
 - Functional Testing
 - Exploratory Testing
 - Regression Testing
@@ -35,7 +35,7 @@ My background includes testing and automation for **web, mobile, desktop, WearOS
 - Acceptance Criteria
 - Software Quality Processes
 
-### Test Automation
+#### Test Automation
 - Playwright
 - JavaScript
 - Robot Framework
@@ -44,7 +44,7 @@ My background includes testing and automation for **web, mobile, desktop, WearOS
 - Python
 - Cypress
 
-### API & Development
+#### API & Development
 - Postman
 - Insomnia
 - REST APIs
