@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Marcos Evandro!
 
-Welcome to my GitHub profile! I'm a **Software Quality Analyst / QA Engineer** with experience in software testing, test automation, requirements analysis, and product development. Currently, I work at **Koper ERP**, where I combine software quality practices with **Product Ownership**, requirements management, and project coordination.
-
+Welcome to my GitHub profile! I'm a Software Quality Analyst / QA Engineer with experience in software testing, test automation, requirements analysis, and product development. Currently, I work at Koper ERP, where I combine software quality practices with Product Ownership, requirements management, and project coordination.
+My background includes testing and automation for **web, mobile, desktop, WearOS, and REST APIs**, as well as experience with agile environments, stakeholder communication, software quality processes, and product development.
 ---
 
 ## 🚀 About Me
@@ -10,13 +10,9 @@ Welcome to my GitHub profile! I'm a **Software Quality Analyst / QA Engineer** w
 - **GitHub:** [marcos.evandro](https://github.com/)
 - **Location:** Florianopolis, SC, Brazil
 - **Current Employer:** Koper ERP
-- **Role:** Software Quality Analyst — Mid-Level / Product Owner
-- **Education:** B.Sc. in Systems Analysis and Development
 - **Bio:** Software Quality Analyst | QA | Test Automation | Product Owner | JavaScript | Playwright | Python
 
 I have experience working throughout the software development lifecycle, from **requirements gathering and refinement to development follow-up, testing, validation, and delivery**.
-
-My background includes testing and automation for **web, mobile, desktop, WearOS, and REST APIs**, as well as experience with agile environments, stakeholder communication, software quality processes, and product development.
 
 ---
 
@@ -43,30 +39,22 @@ My background includes testing and automation for **web, mobile, desktop, WearOS
 - Appium
 - Python
 - Cypress
-
 #### API & Development
 - Postman
 - Insomnia
 - REST APIs
 - JSON
-- Git
-- GitHub
 - Docker
-
 ### Product & Agile
 - Product Ownership
-- Requirements Gathering
-- Requirements Refinement
+- Requirements Gathering/Refinement
 - Functional Requirements
 - Stakeholder Management
-- Scope Definition
-- Prioritization
 - Project Coordination
 - Agile
 - Scrum
 - BDD
 - CI/CD
-
 ---
 
 ## 💡 What I’m Working On
@@ -89,7 +77,7 @@ At **Koper ERP**, I currently work across Software Quality and Product, particip
 
 ## 🔍 Keywords
 
-`Marcos Evandro` `marcos-evandro` `Software Quality Analyst` `QA Engineer` `Quality Assurance` `Test Automation` `QA Automation` `Software Testing` `Playwright` `JavaScript` `Robot Framework` `Selenium` `Appium` `Python` `Postman` `REST API` `API Testing` `E2E Testing` `Functional Testing` `Exploratory Testing` `Regression Testing` `Integration Testing` `Product Owner` `Requirements Analysis` `Requirements Engineering` `Stakeholder Management` `Agile` `Scrum` `Koper ERP` `Software Quality` `Test Engineering` `Artificial Intelligence` `Machine Learning` `Data Analysis` `Computer Vision` `Manaus` `Brazil`
+`Marcos Evandro` `marcos-evandro` `evandro-marcos` `Software Quality Analyst` `QA Engineer` `Quality Assurance` `Test Automation` `QA Automation` `Software Testing` `Playwright` `JavaScript` `Robot Framework` `Selenium` `Appium` `Python` `Postman` `REST API` `API Testing` `E2E Testing` `Functional Testing` `Exploratory Testing` `Regression Testing` `Integration Testing` `Product Owner` `Requirements Analysis` `Requirements Engineering` `Stakeholder Management` `Agile` `Scrum` `Koper ERP` `Software Quality` `Test Engineering` `Artificial Intelligence` `Machine Learning` `Data Analysis` `Computer Vision` `Florianopolis` `Brazil`
 
 ---
 
